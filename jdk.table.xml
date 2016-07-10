@@ -1,0 +1,178 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/distribute-0.6.14-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/selenium-2.53.2-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/browsermob_proxy-0.7.1-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/requests-2.10.0-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/Flask_Restless-1.0.0b2_dev-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/python_dateutil-2.5.3-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/python_mimeparse-1.5.2-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/Jinja2-2.8-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/SQLAlchemy-1.1.0b1-py2.7-macosx-10.11-intel.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-8.1.2-py2.7.egg" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/local/Cellar/scapy/2.3.1/libexec/vendor/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-2125986627" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Unknown at ~/Dropbox/data.NDLHomePage/_venv/Scripts/python.exe" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/Dropbox/data.NDLHomePage/_venv/Scripts/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.10 (ssh://jivanov@192.168.2.78:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="ssh://jivanov@192.168.2.78:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-497599541" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/thrift-0.9.3-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/beautifulsoup4-4.4.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/991888936" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/evernote-1.25.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/code2flow-0.2-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/1727478806" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/23257574" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-1676341222" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-1649864624" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-978343175" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/554357847" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="192.168.2.78" PORT="22" ANONYMOUS="false" USERNAME="jivanov" PASSWORD="dfe2dfcfdfdfdfeedfcbdfdcdf9adf9edf84df98df9adf9adf98df9fdf9bdf99df9adf9adf9edf93df9d" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/jivanov/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.10">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-497599541" remote-root="/usr/local/lib/python2.7/dist-packages/geeknote-0.2a0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/thrift-0.9.3-py2.7-linux-x86_64.egg" remote-root="/usr/local/lib/python2.7/dist-packages/thrift-0.9.3-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/beautifulsoup4-4.4.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/beautifulsoup4-4.4.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/991888936" remote-root="/usr/local/lib/python2.7/dist-packages/markdown2-2.3.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/evernote-1.25.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/evernote-1.25.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/code2flow-0.2-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/code2flow-0.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/1727478806" remote-root="/usr/lib/python2.7/dist-packages/PILcompat" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-1649864624" remote-root="/usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/554357847/-978343175" remote-root="/usr/lib/python2.7/dist-packages/wx-3.0-gtk2" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (/usr/local/Cellar/python/2.7.11/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="/usr/local/Cellar/python/2.7.11/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/distribute-0.6.14-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-809587781" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 (ssh://jivanov@192.168.0.109:22/usr/local/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="ssh://jivanov@192.168.0.109:22/usr/local/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1322634226/249572967" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1322634226/1970481200" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1322634226/726551399" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1322634226/-183260405" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1322634226" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="192.168.0.109" PORT="22" ANONYMOUS="false" USERNAME="jivanov" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/local/bin/python" HELPERS_PATH="/usr/home/jivanov/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.11">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1322634226/249572967" remote-root="/usr/local/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1322634226/1970481200" remote-root="/usr/local/lib/python2.7/plat-freebsd10" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1322634226/726551399" remote-root="/usr/local/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1322634226/-183260405" remote-root="/usr/local/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
