@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/mod_tumbleweed/_scripts/template.elasticsearch.json - [python.FileManager]'" />
-    <option name="defaultScopeName" value="File '.../app/mod_tumbleweed/_scripts/template.elasticsearch.json - [python.FileManager]'" />
+    <option name="customScope" value="Project 'python.CustomerSauce'" />
+    <option name="defaultScopeName" value="Project 'python.CustomerSauce'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/mod_tumbleweed/_scripts/template.elasticsearch.json - [python.FileManager]'" />
+    <option name="SEARCH_SCOPE" value="Project 'python.CustomerSauce'" />
   </component>
 </application>
