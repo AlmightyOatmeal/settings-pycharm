@@ -9858,9 +9858,9 @@
         <entry key="XeroAPI" value="" />
         <entry key="Xigt" value="" />
         <entry key="Ximpia" value="" />
-        <entry key="XlsXcessive" value="" />
-        <entry key="XlsxWriter" value="" />
-        <entry key="Xlsxcursor" value="" />
+        <entry key="XlsXcessive" value="0.3.0" />
+        <entry key="XlsxWriter" value="0.9.3" />
+        <entry key="Xlsxcursor" value="0.1.7" />
         <entry key="XmarcosCrawler" value="" />
         <entry key="XmlTestRunner" value="" />
         <entry key="Xmlify" value="" />
@@ -32503,7 +32503,7 @@
         <entry key="easywebassets" value="" />
         <entry key="easywebdav" value="" />
         <entry key="easywsgi" value="" />
-        <entry key="easyxlsx" value="" />
+        <entry key="easyxlsx" value="0.2.9" />
         <entry key="easyxml" value="" />
         <entry key="easyzone" value="" />
         <entry key="easyzone3" value="" />
@@ -43877,7 +43877,7 @@
         <entry key="json2table" value="" />
         <entry key="json2tsv" value="" />
         <entry key="json2xls" value="" />
-        <entry key="json2xlsx" value="" />
+        <entry key="json2xlsx" value="1.3" />
         <entry key="json2xml" value="" />
         <entry key="json2yaml" value="" />
         <entry key="json5" value="" />
@@ -84675,7 +84675,7 @@
         <entry key="xlpython" value="" />
         <entry key="xlrd" value="1.0.0" />
         <entry key="xlrd3k" value="" />
-        <entry key="xls" value="" />
+        <entry key="xls" value="0.1.1" />
         <entry key="xls2csv" value="" />
         <entry key="xls2db" value="" />
         <entry key="xlsconv" value="" />
@@ -84684,7 +84684,7 @@
         <entry key="xlserver" value="" />
         <entry key="xlsimport" value="" />
         <entry key="xlsx" value="" />
-        <entry key="xlsx2csv" value="" />
+        <entry key="xlsx2csv" value="0.7.2" />
         <entry key="xlsx_streaming" value="" />
         <entry key="xlsxdiff" value="" />
         <entry key="xltable" value="" />
