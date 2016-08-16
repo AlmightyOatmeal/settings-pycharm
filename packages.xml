@@ -1,5 +1,10 @@
 <application>
   <component name="PyPackageService">
+    <option name="sdkToUsersite">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="true" />
+      </map>
+    </option>
     <option name="PY_PACKAGES">
       <map>
         <entry key="0-._.-._.-._.-._.-._.-._.-0" value="" />
@@ -11723,7 +11728,7 @@
         <entry key="appdan2" value="" />
         <entry key="appdeploy" value="" />
         <entry key="appdeps" value="" />
-        <entry key="appdirs" value="" />
+        <entry key="appdirs" value="1.4.0" />
         <entry key="appdo" value="" />
         <entry key="appdotnet" value="" />
         <entry key="appdynamics" value="" />
@@ -22569,7 +22574,7 @@
         <entry key="deform_widget_jquery_option_tree" value="" />
         <entry key="defrost" value="" />
         <entry key="defusedexpat" value="" />
-        <entry key="defusedxml" value="" />
+        <entry key="defusedxml" value="0.4.1" />
         <entry key="degenerate" value="" />
         <entry key="degenerate-dna" value="" />
         <entry key="degreedays" value="" />
@@ -42646,7 +42651,7 @@
         <entry key="iso_639_codes" value="" />
         <entry key="isobject" value="" />
         <entry key="isochrones" value="" />
-        <entry key="isodate" value="" />
+        <entry key="isodate" value="0.5.4" />
         <entry key="isodatetimehandler" value="" />
         <entry key="isoenv" value="" />
         <entry key="isoft8-test" value="" />
@@ -72762,7 +72767,7 @@
         <entry key="shwanglb_nester_2" value="" />
         <entry key="shyaml" value="" />
         <entry key="shyphenate" value="" />
-        <entry key="si" value="" />
+        <entry key="si" value="2" />
         <entry key="si-news" value="" />
         <entry key="si-prefix" value="" />
         <entry key="sib" value="" />
