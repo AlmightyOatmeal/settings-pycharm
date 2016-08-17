@@ -32317,7 +32317,7 @@
         <entry key="dzenlog-link" value="" />
         <entry key="dzenlog-text" value="" />
         <entry key="dziadnester" value="" />
-        <entry key="e" value="" />
+        <entry key="e" value="1.4.5" />
         <entry key="e24PaymentPipe" value="" />
         <entry key="e2transmission" value="" />
         <entry key="e3_analysis" value="" />
@@ -32905,7 +32905,7 @@
         <entry key="elaphe3" value="" />
         <entry key="elapsedtimer" value="" />
         <entry key="elastalert" value="" />
-        <entry key="elastic" value="" />
+        <entry key="elastic" value="4.0.28.7" />
         <entry key="elastic-companion" value="" />
         <entry key="elastic-dict" value="" />
         <entry key="elastic-doc-manager" value="" />
@@ -32936,8 +32936,8 @@
         <entry key="elasticsearch" value="2.3.0" />
         <entry key="elasticsearch-curator" value="" />
         <entry key="elasticsearch-curator-dev" value="" />
-        <entry key="elasticsearch-dsl" value="" />
-        <entry key="elasticsearch-scripts" value="" />
+        <entry key="elasticsearch-dsl" value="2.1.0" />
+        <entry key="elasticsearch-scripts" value="1.0.2" />
         <entry key="elasticsearch-watcher" value="" />
         <entry key="elasticsearch.py" value="" />
         <entry key="elasticsearch1" value="" />
@@ -43153,7 +43153,7 @@
         <entry key="jdate" value="" />
         <entry key="jdatetime" value="" />
         <entry key="jdbm" value="" />
-        <entry key="jdcal" value="" />
+        <entry key="jdcal" value="1.2" />
         <entry key="jdhp-distutils-demo" value="" />
         <entry key="jdhp-setuptools-demo" value="" />
         <entry key="jdpay" value="" />
@@ -54781,7 +54781,7 @@
         <entry key="openproximity-external-media" value="" />
         <entry key="openproximity-plugin-remotecontrol" value="" />
         <entry key="openproximity-plugin-test" value="" />
-        <entry key="openpyxl" value="" />
+        <entry key="openpyxl" value="2.3.5" />
         <entry key="openquake.hazardlib" value="" />
         <entry key="openrange" value="" />
         <entry key="openre" value="" />
