@@ -22614,7 +22614,6 @@
         <entry key="dblp" value="" />
         <entry key="dblp-python" value="" />
         <entry key="dblplib" value="" />
-        <entry key="dbm_nester" value="" />
         <entry key="dbmake" value="" />
         <entry key="dbmanagr" value="" />
         <entry key="dbmigrate" value="" />
@@ -25252,7 +25251,6 @@
         <entry key="django-datadog" value="" />
         <entry key="django-dataforms" value="" />
         <entry key="django-datafreezer" value="" />
-        <entry key="django-datafreezer-deployment" value="" />
         <entry key="django-datagrid" value="" />
         <entry key="django-datalogger" value="" />
         <entry key="django-datamaps" value="" />
@@ -31668,6 +31666,7 @@
         <entry key="dnstk" value="" />
         <entry key="dnstools" value="" />
         <entry key="dnsutils" value="" />
+        <entry key="dnsviz" value="" />
         <entry key="dnsyo" value="" />
         <entry key="dnszonetest" value="" />
         <entry key="dnuos" value="" />
@@ -46500,7 +46499,6 @@
         <entry key="leap-client" value="" />
         <entry key="leap.auth" value="" />
         <entry key="leap.bitmask" value="" />
-        <entry key="leap.bitmask_www" value="" />
         <entry key="leap.bonafide" value="" />
         <entry key="leap.common" value="" />
         <entry key="leap.keymanager" value="" />
@@ -50248,7 +50246,6 @@
         <entry key="migranto" value="" />
         <entry key="migrate" value="" />
         <entry key="migrate3" value="" />
-        <entry key="migrations" value="" />
         <entry key="migrations4neo" value="" />
         <entry key="migrator" value="" />
         <entry key="migratore" value="" />
@@ -58079,7 +58076,6 @@
         <entry key="pica" value="" />
         <entry key="pical" value="" />
         <entry key="picalo" value="" />
-        <entry key="picam" value="" />
         <entry key="picamera" value="" />
         <entry key="picameracv" value="" />
         <entry key="picard" value="" />
@@ -59539,7 +59535,6 @@
         <entry key="poopy" value="" />
         <entry key="poor-smime-sign" value="" />
         <entry key="poorbox" value="" />
-        <entry key="poormanschema" value="" />
         <entry key="poormanslogging" value="" />
         <entry key="poorworm" value="" />
         <entry key="pop" value="" />
@@ -61987,7 +61982,6 @@
         <entry key="pyblish-qml" value="" />
         <entry key="pyblock" value="" />
         <entry key="pyblockchain" value="" />
-        <entry key="pyblog" value="" />
         <entry key="pybloof" value="" />
         <entry key="pybloom" value="" />
         <entry key="pybloom-mirror" value="" />
@@ -71139,7 +71133,6 @@
         <entry key="rngatherd" value="" />
         <entry key="rnginline" value="" />
         <entry key="rngslib" value="" />
-        <entry key="rnnlm-python" value="" />
         <entry key="rnsutils" value="" />
         <entry key="ro-manager" value="" />
         <entry key="ro.bdb.cmmi" value="" />
@@ -72482,7 +72475,6 @@
         <entry key="scales" value="" />
         <entry key="scales-rpc" value="" />
         <entry key="scales_datadog" value="" />
-        <entry key="scaleway" value="" />
         <entry key="scaleway-sdk" value="" />
         <entry key="scalpel" value="" />
         <entry key="scalpels" value="" />
@@ -88164,6 +88156,6 @@
         <entry key="zzzfs" value="" />
       </map>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1473289932977" />
+    <option name="LAST_TIME_CHECKED" value="1473278855922" />
   </component>
 </application>
