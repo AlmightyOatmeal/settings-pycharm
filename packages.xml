@@ -2,7 +2,7 @@
   <component name="PyPackageService">
     <option name="sdkToUsersite">
       <map>
-        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="true" />
       </map>
     </option>
     <option name="PY_PACKAGES">
@@ -33629,7 +33629,7 @@
         <entry key="elasticsearch-curator" value="" />
         <entry key="elasticsearch-curator-dev" value="" />
         <entry key="elasticsearch-django" value="" />
-        <entry key="elasticsearch-dsl" value="" />
+        <entry key="elasticsearch-dsl" value="2.1.0" />
         <entry key="elasticsearch-scripts" value="" />
         <entry key="elasticsearch-watcher" value="" />
         <entry key="elasticsearch.py" value="" />
