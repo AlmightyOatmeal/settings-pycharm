@@ -34051,7 +34051,7 @@
         <entry key="elasticluster" value="" />
         <entry key="elasticmodels" value="" />
         <entry key="elasticpy" value="" />
-        <entry key="elasticsearch" value="" />
+        <entry key="elasticsearch" value="2.4.0" />
         <entry key="elasticsearch-async" value="" />
         <entry key="elasticsearch-curator" value="" />
         <entry key="elasticsearch-curator-dev" value="" />
