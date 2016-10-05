@@ -10920,7 +10920,6 @@
         <entry key="aiohttp_exc_handlers" value="" />
         <entry key="aiohttp_jinja2" value="" />
         <entry key="aiohttp_mako" value="" />
-        <entry key="aiohttp_oauth" value="" />
         <entry key="aiohttp_route_decorator" value="" />
         <entry key="aiohttp_runserver" value="" />
         <entry key="aiohttp_security" value="" />
@@ -12674,7 +12673,6 @@
         <entry key="asphalt" value="" />
         <entry key="asphalt-mailer" value="" />
         <entry key="asphalt-memcached" value="" />
-        <entry key="asphalt-mongodb" value="" />
         <entry key="asphalt-py4j" value="" />
         <entry key="asphalt-redis" value="" />
         <entry key="asphalt-serialization" value="" />
@@ -20802,7 +20800,6 @@
         <entry key="confine-orm" value="" />
         <entry key="confined" value="" />
         <entry key="confing" value="" />
-        <entry key="confipy" value="" />
         <entry key="confire" value="" />
         <entry key="confirm" value="" />
         <entry key="confiskus" value="" />
@@ -26313,7 +26310,6 @@
         <entry key="django-exceptional" value="" />
         <entry key="django-exceptions" value="" />
         <entry key="django-exchange" value="" />
-        <entry key="django-exchange-docs" value="" />
         <entry key="django-exchange-themes" value="" />
         <entry key="django-exclusivebooleanfield" value="" />
         <entry key="django-executor" value="" />
@@ -37859,7 +37855,6 @@
         <entry key="funcomp" value="" />
         <entry key="funconf" value="" />
         <entry key="funcparserlib" value="" />
-        <entry key="funcrec" value="" />
         <entry key="funcserver" value="" />
         <entry key="funcsigs" value="" />
         <entry key="functable" value="" />
@@ -72330,7 +72325,6 @@
         <entry key="rglob" value="" />
         <entry key="rglogger" value="" />
         <entry key="rglogger-fdh" value="" />
-        <entry key="rgmining-common" value="" />
         <entry key="rgomes_velruse" value="" />
         <entry key="rgr" value="" />
         <entry key="rgwadmin" value="" />
@@ -85336,7 +85330,6 @@
         <entry key="venvgit2" value="" />
         <entry key="venvm" value="" />
         <entry key="venvstarter" value="" />
-        <entry key="veppy" value="" />
         <entry key="vera" value="" />
         <entry key="verace" value="" />
         <entry key="verata" value="" />
@@ -89956,6 +89949,6 @@
         <entry key="zzzfs" value="" />
       </map>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1475544081790" />
+    <option name="LAST_TIME_CHECKED" value="1475536643635" />
   </component>
 </application>
