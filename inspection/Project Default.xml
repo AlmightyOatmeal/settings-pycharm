@@ -1,4 +1,4 @@
-<profile profile_name="Project Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Project Default" />
   <inspection_tool class="PyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
