@@ -1,7 +1,4 @@
-<code_scheme name="Default">
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
+<code_scheme name="Jamie Ivanov">
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
@@ -12,6 +9,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
-    <option name="RIGHT_MARGIN" value="240" />
+    <option name="RIGHT_MARGIN" value="1000" />
   </codeStyleSettings>
 </code_scheme>
