@@ -1,4 +1,7 @@
 <code_scheme name="Jamie Ivanov">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
