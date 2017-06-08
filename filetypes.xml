@@ -8,6 +8,7 @@
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="private" type="PLAIN_TEXT" />
+      <mapping ext="subject" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
