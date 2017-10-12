@@ -1,5 +1,6 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="TOC_FORMAT_ON_SAVE" value="true" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <XML>

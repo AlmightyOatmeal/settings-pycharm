@@ -1,0 +1,9 @@
+<templateSet group="Markdown">
+  <template name=".toc" value="[TOC]: # &quot; $END$&quot;&#10;&#10;&#10;" shortcut="SPACE" description="Table of Contents [TOC]: #" toReformat="true" toShortenFQNames="false">
+    <context />
+  </template>
+  <template name=".collapsed" value="&#10;&amp;nbsp;&lt;details open&gt;&lt;summary&gt;$SUMMARY$&lt;/summary&gt;&#10;$END$&#10;&amp;nbsp;&lt;/details&gt;&#10;" description="Collapsed Markdown Section" toReformat="false" toShortenFQNames="true">
+    <variable name="SUMMARY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
